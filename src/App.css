@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  
+ }
+ .title{
+   margin-left: auto;
+   margin-top: auto;
+   padding-top: 90px;
+   display: flex;
+   justify-content: center;
+   text-decoration: wavy;
+   color:lightgrey;
+   font-style: oblique;
+ }
+ .form{
+  display: flex;
+  justify-content: center;
+  color:lightgrey;
+ }
+ 
+  
+ .background-image {
+  background-image: url(./wf.jpg);
+  background-size: cover;
+  background-position: top;
+  min-height: 100%;
+  height: 100vh;
+  position: relative;
+  
+}
